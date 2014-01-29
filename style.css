@@ -1,0 +1,11 @@
+#message{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    margin-top: -50px;
+    margin-right: 50%;
+    width: 500px;
+    height: 100px;
+    background-color: #e54040;
+    padding: 2%;
+}​
